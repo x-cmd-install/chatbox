@@ -1,0 +1,64 @@
+about:
+  description: Powerful AI Client
+  license: GPL-3.0
+  homepage: https://chatboxai.app?utm_medium=github
+  head: d34159e
+  archived: false
+  latestVersion: v1.23.1
+  collectedAt: 2026-09-03T03:22:20Z
+timeline:
+  created: 2023-03-06
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 41633
+  watcher: 216
+  fork: 4222
+  release: 62
+  contributor: 70
+  pullRequest: 200
+  issue: 2706
+language:
+  TypeScript: 9601926
+  JavaScript: 191066
+  CSS: 26108
+  EJS: 17733
+  HTML: 15030
+  Gherkin: 14477
+  NSIS: 4465
+  Shell: 4415
+  Dockerfile: 176
+totalLine: 9875396
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 4
+    mergedPR: 2
+    openPR: 12
+    closedIssue: 10
+    openIssue: 21
+    commit: 171
+  last90d:
+    since: 2026-06-05
+    release: 7
+    mergedPR: 4
+    openPR: 33
+    closedIssue: 22
+    openIssue: 70
+    commit: 450
+  last180d:
+    since: 2026-03-07
+    release: 10
+    mergedPR: 5
+    openPR: 52
+    closedIssue: 42
+    openIssue: 167
+    commit: 619
+  last360d:
+    since: 2025-09-08
+    release: 15
+    mergedPR: 9
+    openPR: 64
+    closedIssue: 93
+    openIssue: 323
+    commit: 842
