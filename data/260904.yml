@@ -7,7 +7,7 @@ about:
   head: e97c1db
   archived: false
   latestVersion: v1.23.1
-  collectedAt: 2026-09-04T19:21:38Z
+  collectedAt: 2026-09-04T21:16:06Z
 timeline:
   created: 2023-03-06
   lastCommit: 2026-09-04
@@ -88,5 +88,78 @@ total:
   openIssue: 1156
   commit: 1506
 ---
+path: /home/runner/.x-repo/github.com/chatboxai/chatbox
+collectedAt: 2026-09-04T21:16:11Z
+loc:
+  TypeScript:
+    code: 169718
+    comments: 9761
+    blanks: 18115
+    files: 1163
+  Tsx:
+    code: 64855
+    comments: 1335
+    blanks: 5424
+    files: 337
+  Yaml:
+    code: 28138
+    comments: 10
+    blanks: 2179
+    files: 3
+  Json:
+    code: 21043
+    comments: 0
+    blanks: 0
+    files: 24
+  JavaScript:
+    code: 3855
+    comments: 193
+    blanks: 207
+    files: 13
+  Css:
+    code: 729
+    comments: 55
+    blanks: 108
+    files: 5
+  Gherkin:
+    code: 257
+    comments: 39
+    blanks: 52
+    files: 4
+  Html:
+    code: 172
+    comments: 1
+    blanks: 3
+    files: 1
+  Svg:
+    code: 106
+    comments: 0
+    blanks: 0
+    files: 9
+  Sh:
+    code: 94
+    comments: 15
+    blanks: 21
+    files: 2
+  Dockerfile:
+    code: 5
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 8613
+    blanks: 2719
+    files: 55
+  Text:
+    code: 0
+    comments: 620
+    blanks: 17
+    files: 2
+total:
+  code: 290039
+  comments: 20800
+  blanks: 28959
+  files: 1619
 ---
 
