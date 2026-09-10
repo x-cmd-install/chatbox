@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/chatboxai/chatbox/releases/381238162",
-  "assets_url": "https://api.github.com/repos/chatboxai/chatbox/releases/381238162/assets",
-  "upload_url": "https://uploads.github.com/repos/chatboxai/chatbox/releases/381238162/assets{?name,label}",
-  "html_url": "https://github.com/chatboxai/chatbox/releases/tag/v1.23.1",
-  "id": 381238162,
+  "url": "https://api.github.com/repos/chatboxai/chatbox/releases/385988172",
+  "assets_url": "https://api.github.com/repos/chatboxai/chatbox/releases/385988172/assets",
+  "upload_url": "https://uploads.github.com/repos/chatboxai/chatbox/releases/385988172/assets{?name,label}",
+  "html_url": "https://github.com/chatboxai/chatbox/releases/tag/v1.23.2",
+  "id": 385988172,
   "author": {
     "login": "themez",
     "id": 1323793,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJF_VYs4WuTuS",
-  "tag_name": "v1.23.1",
+  "node_id": "RE_kwDOJF_VYs4XAbZM",
+  "tag_name": "v1.23.2",
   "target_commitish": "main",
-  "name": "v1.23.1",
+  "name": "v1.23.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-02T12:30:02Z",
-  "updated_at": "2026-09-02T12:30:48Z",
-  "published_at": "2026-09-02T12:30:48Z",
+  "created_at": "2026-09-10T03:30:56Z",
+  "updated_at": "2026-09-10T03:36:21Z",
+  "published_at": "2026-09-10T03:36:21Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/chatboxai/chatbox/tarball/v1.23.1",
-  "zipball_url": "https://api.github.com/repos/chatboxai/chatbox/zipball/v1.23.1",
-  "body": "## v1.23.1 - 2026.09.02\n\n### Downloads\n\n- macOS (Apple Silicon): [Chatbox-1.23.1-arm64.dmg](https://download.chatboxai.app/releases/Chatbox-1.23.1-arm64.dmg)\n- macOS (Intel): [Chatbox-1.23.1.dmg](https://download.chatboxai.app/releases/Chatbox-1.23.1.dmg)\n- Windows (x64): [Chatbox-1.23.1-Setup.exe](https://download.chatboxai.app/releases/Chatbox-1.23.1-Setup.exe)\n- Linux (x64 AppImage): [Chatbox-1.23.1-x86_64.AppImage](https://download.chatboxai.app/releases/Chatbox-1.23.1-x86_64.AppImage)\n- Linux (ARM64 AppImage): [Chatbox-1.23.1-arm64.AppImage](https://download.chatboxai.app/releases/Chatbox-1.23.1-arm64.AppImage)\n- Linux (x64 DEB): [Chatbox-1.23.1-amd64.deb](https://download.chatboxai.app/releases/Chatbox-1.23.1-amd64.deb)\n- Linux (ARM64 DEB): [Chatbox-1.23.1-arm64.deb](https://download.chatboxai.app/releases/Chatbox-1.23.1-arm64.deb)\n- Android: [chatbox-1.23.1.apk](https://download.chatboxai.app/releases/chatbox-1.23.1.apk)\n\n### What's Changed\n\n1. Added confirmation before deleting older messages or switching models when cached context would be reset\n2. Increased Copilot prompt limit to 40,000 characters\n3. Fixed the conversation settings menu being obscured by the Android navigation bar\n4. Fixed errors involving keyboard shortcuts, conversation settings, and invalid max output tokens\n"
+  "tarball_url": "https://api.github.com/repos/chatboxai/chatbox/tarball/v1.23.2",
+  "zipball_url": "https://api.github.com/repos/chatboxai/chatbox/zipball/v1.23.2",
+  "body": "## v1.23.2 - 2026.09.10\n\n### Downloads\n\n- [macOS (Apple Silicon)](https://download.chatboxai.app/releases/Chatbox-1.23.2-arm64.dmg)\n- [macOS (Intel)](https://download.chatboxai.app/releases/Chatbox-1.23.2.dmg)\n- [Windows (x64)](https://download.chatboxai.app/releases/Chatbox-1.23.2-Setup.exe)\n- [Linux (x64 DEB)](https://download.chatboxai.app/releases/Chatbox-1.23.2-amd64.deb)\n- [Linux (ARM64 DEB)](https://download.chatboxai.app/releases/Chatbox-1.23.2-arm64.deb)\n- [Android](https://download.chatboxai.app/releases/chatbox-1.23.2.apk)\n\n### What’s Changed\n\n1. Added OAuth authorization for remote MCP servers, with connection controls and a refreshable tool list in server settings\n2. Added custom conversation compaction prompts and one-time instructions, with improved compaction scope and trigger accuracy\n3. Added cached token usage to message statistics and configurable prompt cache duration for Claude\n4. Added support for more plain-text uploads, including Typst, Patch, and Diff files\n5. Added one-click undo for archived chats and improved recovery when a conversation fails to load at startup\n6. Fixed replies sometimes remaining in the generating state after completion\n7. Improved generated image loading, with an option to reload images that fail to display\n8. Added reasoning effort controls for GPT-6 and later models, and improved Kimi, OpenCode, and model catalog compatibility\n9. Fixed backup exports on HarmonyOS and improved window focus, small-screen layouts, and translations\n\n### 更新说明\n\n1. 远程 MCP 服务支持 OAuth 授权，可在配置窗口连接服务、查看和刷新工具列表\n2. 对话压缩支持自定义提示词和临时补充要求，并优化压缩范围与触发判断\n3. 消息用量新增缓存命中 Token 展示，Claude 支持设置提示词缓存时长\n4. 支持上传更多纯文本文件，包括 Typst、Patch 和 Diff 文件\n5. 归档对话后支持一键撤销，改善异常会话的启动恢复体验\n6. 修复部分回复完成后仍显示生成中的问题\n7. 改善生成图片的加载体验，加载失败时可重新加载\n8. 支持 GPT-6 及后续模型的思考强度设置，改善 Kimi、OpenCode 和模型列表兼容性\n9. 修复鸿蒙备份导出问题，并优化窗口焦点、小屏显示及多语言文案\n"
 }
