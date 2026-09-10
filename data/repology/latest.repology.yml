@@ -1,0 +1,64 @@
+- repo: nix_stable_26_05
+  srcname: chatbox
+  visiblename: chatbox
+  version: 1.20.3
+  origversion: null
+  status: outdated
+  summary: AI client application and smart assistant
+  maintainers:
+    - celiogrand@outlook.com
+  licenses:
+    - Unfree
+- repo: nix_stable_25_11
+  srcname: chatbox
+  visiblename: chatbox
+  version: 1.17.1
+  origversion: null
+  status: outdated
+  summary: AI client application and smart assistant
+  maintainers:
+    - celiogrand@outlook.com
+  licenses:
+    - Unfree
+- repo: aur
+  srcname: chatbox-bin
+  binname: chatbox-bin
+  visiblename: chatbox-bin
+  version: 1.21.0
+  origversion: 1.21.0-1
+  status: outdated
+  summary: User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+  maintainers:
+    - richin13@aur
+  licenses:
+    - GPL-3.0
+- repo: aur
+  srcname: chatbox-git
+  binname: chatbox-git
+  visiblename: chatbox-git
+  version: 1.22.1.r0.g7450ab2
+  origversion: 1.22.1.r0.g7450ab2-1
+  status: rolling
+  summary: A desktop client for ChatGPT, Claude and other LLM.(Prebuilt version.Use system-wide electron)
+  maintainers:
+    - zxp19821005@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: homebrew_casks
+  srcname: chatbox
+  visiblename: Chatbox
+  version: 1.23.2
+  origversion: null
+  status: newest
+  summary: Desktop app for GPT-4 / GPT-3.5 (OpenAI API)
+- repo: nix_stable_25_05
+  srcname: chatbox
+  visiblename: chatbox
+  version: 1.12.3
+  origversion: null
+  status: outdated
+  summary: AI client application and smart assistant
+  maintainers:
+    - celiogrand@outlook.com
+  licenses:
+    - Unfree
