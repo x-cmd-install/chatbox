@@ -37,22 +37,26 @@ Total: **298,101** lines of code across **1589** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 42,093 · **Forks**: 4,281 · **Open issues**: 2,788 · **Contributors**: 73
+- **Stars**: 42,113 · **Forks**: 4,286 · **Open issues**: 2,790 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 85 · **Open PRs**: 124 · **Closed issues**: 1569 · **Open issues**: 1219 · **Commits**: 1560
+- **Releases**: 65 · **Merged PRs**: 85 · **Open PRs**: 126 · **Closed issues**: 1569 · **Open issues**: 1221 · **Commits**: 1560
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 1 | 17 | 1 | 34 | 0 |
-| last60d | 2026-08-23 | 5 | 4 | 28 | 13 | 76 | 97 |
-| 90d | 2026-07-24 | 8 | 8 | 38 | 24 | 106 | 331 |
-| last180d | 2026-04-25 | 11 | 9 | 65 | 42 | 174 | 563 |
-| 360d | 2025-10-27 | 17 | 12 | 80 | 97 | 339 | 838 |
-| last720d | 2024-11-01 | 21 | 46 | 113 | 346 | 945 | 1200 |
+| 30d | 2026-09-23 | 1 | 1 | 19 | 0 | 36 | 0 |
+| last60d | 2026-08-24 | 5 | 4 | 30 | 13 | 78 | 97 |
+| 90d | 2026-07-25 | 8 | 8 | 40 | 24 | 107 | 331 |
+| last180d | 2026-04-26 | 11 | 9 | 67 | 42 | 176 | 563 |
+| 360d | 2025-10-28 | 17 | 12 | 82 | 97 | 340 | 838 |
+| last720d | 2024-11-02 | 21 | 46 | 115 | 346 | 947 | 1200 |
+
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/chatbox). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -63,4 +67,4 @@ Install metadata for chatbox lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:31:17Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:37:04Z._
