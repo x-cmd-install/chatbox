@@ -14,8 +14,8 @@
   srcname: chatbox-git
   binname: chatbox-git
   visiblename: chatbox-git
-  version: 1.23.5.r0.g0ac6385
-  origversion: 1.23.5.r0.g0ac6385-1
+  version: 1.24.2.r0.gabc7024
+  origversion: 1.24.2.r0.gabc7024-1
   status: rolling
   summary: A desktop client for ChatGPT, Claude and other LLM.
   maintainers:
@@ -25,7 +25,7 @@
 - repo: homebrew_casks
   srcname: chatbox
   visiblename: Chatbox
-  version: 1.24.1
+  version: 1.24.2
   origversion: null
   status: newest
   summary: Desktop app for GPT-4 / GPT-3.5 (OpenAI API)
