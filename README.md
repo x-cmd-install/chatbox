@@ -14,13 +14,13 @@ x install chatbox
 
 ## Code insight
 
-Total: **433,502** lines of code across **2382** files in the top 5 languages.
+Total: **432,265** lines of code across **2371** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 279,670 | 11,520 | 24,228 | 1871 |
-| Tsx | 82,510 | 1,671 | 6,362 | 436 |
-| Json | 33,256 | 0 | 0 | 45 |
+| TypeScript | 279,007 | 11,405 | 24,175 | 1867 |
+| Tsx | 81,826 | 1,600 | 6,267 | 429 |
+| Json | 33,361 | 0 | 0 | 45 |
 | Yaml | 29,002 | 27 | 2,234 | 3 |
 | JavaScript | 7,336 | 221 | 460 | 27 |
 
@@ -32,27 +32,27 @@ Total: **433,502** lines of code across **2382** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.24.2` (2026-11-08)
-- **Last commit**: 2026-11-08
+- **Latest**: `v1.24.3` (2026-11-10)
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 42,287 · **Forks**: 4,323 · **Open issues**: 2,812 · **Contributors**: 76
+- **Stars**: 42,297 · **Forks**: 4,327 · **Open issues**: 2,812 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 85 · **Open PRs**: 130 · **Closed issues**: 1572 · **Open issues**: 1240 · **Commits**: 1865
+- **Releases**: 67 · **Merged PRs**: 85 · **Open PRs**: 130 · **Closed issues**: 1572 · **Open issues**: 1240 · **Commits**: 1875
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 0 | 15 | 1 | 36 | 93 |
-| last60d | 2026-09-11 | 3 | 1 | 32 | 9 | 76 | 248 |
-| 90d | 2026-08-12 | 6 | 4 | 44 | 21 | 106 | 455 |
-| last180d | 2026-05-14 | 12 | 9 | 66 | 41 | 171 | 850 |
-| 360d | 2025-11-15 | 16 | 12 | 87 | 99 | 342 | 1122 |
-| last720d | 2024-11-20 | 21 | 43 | 118 | 339 | 955 | 1501 |
+| 30d | 2026-10-12 | 2 | 0 | 15 | 1 | 35 | 103 |
+| last60d | 2026-09-12 | 4 | 1 | 31 | 8 | 76 | 258 |
+| 90d | 2026-08-13 | 7 | 4 | 44 | 20 | 105 | 465 |
+| last180d | 2026-05-15 | 13 | 9 | 66 | 41 | 170 | 860 |
+| 360d | 2025-11-16 | 17 | 12 | 87 | 99 | 341 | 1132 |
+| last720d | 2024-11-21 | 22 | 43 | 118 | 338 | 953 | 1511 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for chatbox lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:30:02Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:09:26Z._
