@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/chatboxai/chatbox/releases/440596344",
-  "assets_url": "https://api.github.com/repos/chatboxai/chatbox/releases/440596344/assets",
-  "upload_url": "https://uploads.github.com/repos/chatboxai/chatbox/releases/440596344/assets{?name,label}",
-  "html_url": "https://github.com/chatboxai/chatbox/releases/tag/v1.24.3",
-  "id": 440596344,
+  "url": "https://api.github.com/repos/chatboxai/chatbox/releases/443194754",
+  "assets_url": "https://api.github.com/repos/chatboxai/chatbox/releases/443194754/assets",
+  "upload_url": "https://uploads.github.com/repos/chatboxai/chatbox/releases/443194754/assets{?name,label}",
+  "html_url": "https://github.com/chatboxai/chatbox/releases/tag/v1.24.4",
+  "id": 443194754,
   "author": {
     "login": "themez",
     "id": 1323793,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJF_VYs4aQvd4",
-  "tag_name": "v1.24.3",
+  "node_id": "RE_kwDOJF_VYs4aap2C",
+  "tag_name": "v1.24.4",
   "target_commitish": "main",
-  "name": "v1.24.3",
+  "name": "v1.24.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-10T16:11:35Z",
-  "updated_at": "2026-11-10T16:12:32Z",
-  "published_at": "2026-11-10T16:12:32Z",
+  "created_at": "2026-11-12T15:41:10Z",
+  "updated_at": "2026-11-12T16:12:43Z",
+  "published_at": "2026-11-12T16:12:43Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/chatboxai/chatbox/tarball/v1.24.3",
-  "zipball_url": "https://api.github.com/repos/chatboxai/chatbox/zipball/v1.24.3",
-  "body": "## v1.24.3 - 2026.11.10\n\n### Downloads\n\n- [macOS (Apple Silicon)](https://download.chatboxai.app/releases/Chatbox-1.24.3-arm64.dmg)\n- [macOS (Intel)](https://download.chatboxai.app/releases/Chatbox-1.24.3.dmg)\n- [Windows (x64)](https://download.chatboxai.app/releases/Chatbox-1.24.3-Setup.exe)\n- [Linux (x64 DEB)](https://download.chatboxai.app/releases/Chatbox-1.24.3-amd64.deb)\n- [Linux (ARM64 DEB)](https://download.chatboxai.app/releases/Chatbox-1.24.3-arm64.deb)\n\n### What’s Changed\n\n1. Improved message list flickering and scrolling during generation\n2. Improved chat wallpaper and input appearance, and custom dark theme colors\n3. Adjusted message avatars, model names, and timestamps, and improved readability in classic layout\n4. Restored the mobile message toolbar for regenerating, editing, copying, and deleting messages\n\n### 更新说明\n\n1. 改善生成过程中消息列表闪烁和滚动体验\n2. 优化聊天壁纸和输入框的显示效果，改善自定义深色主题的配色\n3. 调整消息头像、模型名称和时间的位置，优化经典布局的阅读体验\n4. 移动端恢复消息操作栏，方便重新回答、编辑、复制和删除消息\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/chatboxai/chatbox/releases/440596344/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/chatboxai/chatbox/tarball/v1.24.4",
+  "zipball_url": "https://api.github.com/repos/chatboxai/chatbox/zipball/v1.24.4",
+  "body": "## v1.24.4 - 2026.11.12\n\n### Downloads\n\n- [macOS (Apple Silicon)](https://download.chatboxai.app/releases/Chatbox-1.24.4-arm64.dmg)\n- [macOS (Intel)](https://download.chatboxai.app/releases/Chatbox-1.24.4.dmg)\n- [Windows (x64)](https://download.chatboxai.app/releases/Chatbox-1.24.4-Setup.exe)\n- [Linux (x64 DEB)](https://download.chatboxai.app/releases/Chatbox-1.24.4-amd64.deb)\n- [Linux (ARM64 DEB)](https://download.chatboxai.app/releases/Chatbox-1.24.4-arm64.deb)\n\n### What’s Changed\n\n1. Improved conversation scrolling and history loading, including position retention when switching branches or regenerating replies\n2. Unified the frosted glass appearance of popups and panels over chat wallpapers\n3. Improved settings card styling in dark mode\n4. Fixed downloading large SVG diagrams on mobile and added error messages\n5. Fixed file tools being enabled in some cases when they were not needed\n\n### 更新说明\n\n1. 优化对话滚动和历史消息加载，改善切换分支、重新生成回复时的位置保持\n2. 使用聊天壁纸时，弹窗和面板采用统一的毛玻璃效果\n3. 优化深色模式下设置页面的卡片样式\n4. 修复移动端下载较大 SVG 图表可能失败的问题，并增加失败提示\n5. 修复部分情况下错误启用文件工具的问题\n"
 }
