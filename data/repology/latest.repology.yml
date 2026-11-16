@@ -28,7 +28,7 @@
   version: 1.24.4
   origversion: null
   status: newest
-  summary: Desktop app for GPT-4 / GPT-3.5 (OpenAI API)
+  summary: Desktop client for AI models
 - repo: nix_stable_25_05
   srcname: chatbox
   visiblename: chatbox
