@@ -1,3 +1,36 @@
+- repo: nix_stable_26_05
+  srcname: chatbox
+  visiblename: chatbox
+  version: 1.20.3
+  origversion: null
+  status: outdated
+  summary: AI client application and smart assistant
+  maintainers:
+    - celiogrand@outlook.com
+  licenses:
+    - Unfree
+- repo: nix_stable_25_05
+  srcname: chatbox
+  visiblename: chatbox
+  version: 1.12.3
+  origversion: null
+  status: outdated
+  summary: AI client application and smart assistant
+  maintainers:
+    - celiogrand@outlook.com
+  licenses:
+    - Unfree
+- repo: nix_stable_25_11
+  srcname: chatbox
+  visiblename: chatbox
+  version: 1.17.1
+  origversion: null
+  status: outdated
+  summary: AI client application and smart assistant
+  maintainers:
+    - celiogrand@outlook.com
+  licenses:
+    - Unfree
 - repo: aur
   srcname: chatbox-bin
   binname: chatbox-bin
@@ -25,40 +58,7 @@
 - repo: homebrew_casks
   srcname: chatbox
   visiblename: Chatbox
-  version: 1.24.4
+  version: 1.24.6
   origversion: null
   status: newest
   summary: Desktop client for AI models
-- repo: nix_stable_25_05
-  srcname: chatbox
-  visiblename: chatbox
-  version: 1.12.3
-  origversion: null
-  status: outdated
-  summary: AI client application and smart assistant
-  maintainers:
-    - celiogrand@outlook.com
-  licenses:
-    - Unfree
-- repo: nix_stable_25_11
-  srcname: chatbox
-  visiblename: chatbox
-  version: 1.17.1
-  origversion: null
-  status: outdated
-  summary: AI client application and smart assistant
-  maintainers:
-    - celiogrand@outlook.com
-  licenses:
-    - Unfree
-- repo: nix_stable_26_05
-  srcname: chatbox
-  visiblename: chatbox
-  version: 1.20.3
-  origversion: null
-  status: outdated
-  summary: AI client application and smart assistant
-  maintainers:
-    - celiogrand@outlook.com
-  licenses:
-    - Unfree
