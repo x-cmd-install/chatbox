@@ -37,22 +37,22 @@ Total: **442,562** lines of code across **2412** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 42,544 · **Forks**: 4,371 · **Open issues**: 2,827 · **Contributors**: 77
+- **Stars**: 42,551 · **Forks**: 4,371 · **Open issues**: 2,831 · **Contributors**: 77
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 87 · **Open PRs**: 143 · **Closed issues**: 1583 · **Open issues**: 1244 · **Commits**: 1925
+- **Releases**: 68 · **Merged PRs**: 87 · **Open PRs**: 143 · **Closed issues**: 1583 · **Open issues**: 1248 · **Commits**: 1925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 3 | 2 | 19 | 6 | 31 | 102 |
-| last60d | 2026-09-27 | 3 | 2 | 38 | 9 | 63 | 194 |
-| 90d | 2026-08-28 | 8 | 6 | 51 | 21 | 103 | 427 |
-| last180d | 2026-05-30 | 14 | 11 | 77 | 46 | 175 | 881 |
-| 360d | 2025-12-01 | 17 | 13 | 99 | 102 | 325 | 1156 |
-| last720d | 2024-12-06 | 23 | 45 | 131 | 333 | 945 | 1558 |
+| 30d | 2026-10-28 | 3 | 2 | 19 | 6 | 35 | 102 |
+| last60d | 2026-09-28 | 3 | 2 | 38 | 8 | 66 | 194 |
+| 90d | 2026-08-29 | 8 | 6 | 51 | 21 | 107 | 427 |
+| last180d | 2026-05-31 | 14 | 11 | 77 | 46 | 177 | 881 |
+| 360d | 2025-12-02 | 17 | 13 | 99 | 102 | 327 | 1156 |
+| last720d | 2024-12-07 | 23 | 45 | 131 | 333 | 948 | 1558 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for chatbox lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:03:38Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:54:13Z._
