@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.24.4"
   latestRelease: "v1.24.4"
   latestPrerelease: "Chatbox-v0.2.1"
-  collectedAt: 2026-11-27T09:53:44Z
+  collectedAt: 2026-11-28T09:06:33Z
 timeline:
   created: 2023-03-06
   lastCommit: 2026-11-18
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-12
   lastPrerelease: 2023-03-20
 popularity:
-  star: 42551
+  star: 42561
   watcher: 219
   fork: 4371
   release: 68
@@ -35,39 +35,39 @@ language:
 totalBytes: 16096670
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 3
     mergedPR: 2
     openPR: 19
     closedIssue: 6
-    openIssue: 35
+    openIssue: 34
     commit: 102
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 3
     mergedPR: 2
-    openPR: 38
-    closedIssue: 8
-    openIssue: 66
+    openPR: 37
+    closedIssue: 7
+    openIssue: 65
     commit: 194
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 8
     mergedPR: 6
     openPR: 51
     closedIssue: 21
-    openIssue: 107
+    openIssue: 106
     commit: 427
   last180d:
-    since: 2026-05-31
-    release: 14
-    mergedPR: 11
-    openPR: 77
+    since: 2026-06-01
+    release: 13
+    mergedPR: 10
+    openPR: 76
     closedIssue: 46
-    openIssue: 177
+    openIssue: 176
     commit: 881
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 17
     mergedPR: 13
     openPR: 99
@@ -75,12 +75,12 @@ recent:
     openIssue: 327
     commit: 1156
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 23
     mergedPR: 45
     openPR: 131
-    closedIssue: 333
-    openIssue: 948
+    closedIssue: 332
+    openIssue: 947
     commit: 1558
 total:
   release: 68
@@ -91,7 +91,7 @@ total:
   commit: 1925
 ---
 path: /home/runner/.x-repo/github.com/chatboxai/chatbox
-collectedAt: 2026-11-27T09:53:52Z
+collectedAt: 2026-11-28T09:06:41Z
 loc:
   TypeScript:
     code: 284421
